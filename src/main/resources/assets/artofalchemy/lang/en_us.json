@@ -1,0 +1,47 @@
+{
+  "item.artofalchemy.activated_amaranth_pearl": "Activated Amaranth Pearl",
+  "item.artofalchemy.alchemical_journal": "Alchemical Journal",
+  "item.artofalchemy.alchemy_formula": "Alchemy Formula",
+  "item.artofalchemy.alkahest_bucket": "Alkahest Bucket",
+  "item.artofalchemy.amaranth_pearl": "Amaranth Pearl",
+  "item.artofalchemy.azoth": "Azoth",
+  "item.artofalchemy.brewing_formula": "Brewing Formula",
+  "item.artofalchemy.cracked_amaranth_pearl": "Cracked Amaranth Pearl",
+  "item.artofalchemy.enchantment_formula": "Enchantment Formula",
+
+  "item.artofalchemy.essentia_bucket_apollo": "Essentia Bucket (Apollo)",
+  "item.artofalchemy.essentia_bucket_ceres": "Essentia Bucket (Ceres)",
+  "item.artofalchemy.essentia_bucket_diana": "Essentia Bucket (Diana)",
+  "item.artofalchemy.essentia_bucket_jupiter": "Essentia Bucket (Jupiter)",
+  "item.artofalchemy.essentia_bucket_mars": "Essentia Bucket (Mars)",
+  "item.artofalchemy.essentia_bucket_mercury": "Essentia Bucket (Mercury)",
+  "item.artofalchemy.essentia_bucket_neptune": "Essentia Bucket (Neptune)",
+  "item.artofalchemy.essentia_bucket_pluto": "Essentia Bucket (Pluto)",
+  "item.artofalchemy.essentia_bucket_saturn": "Essentia Bucket (Saturn)",
+  "item.artofalchemy.essentia_bucket_tellus": "Essentia Bucket (Tellus)",
+  "item.artofalchemy.essentia_bucket_uranus": "Essentia Bucket (Uranus)",
+  "item.artofalchemy.essentia_bucket_venus": "Essentia Bucket (Venus)",
+  "item.artofalchemy.essentia_bucket_void": "Essentia Bucket (Void)",
+
+  "item.artofalchemy.essentia_extractor": "Essentia Extractor",
+  "item.artofalchemy.essentia_inserter": "Essentia Inserter",
+  "item.artofalchemy.essentia_port": "Essentia Port",
+
+  "item.artofalchemy.flawed_stone": "Flawed Stone",
+  "item.artofalchemy.icon_item": "Icon Item",
+
+  "item.artofalchemy.materia_a": "Materia A",
+  "item.artofalchemy.materia_b": "Materia B",
+  "item.artofalchemy.materia_c": "Materia C",
+  "item.artofalchemy.materia_d": "Materia D",
+  "item.artofalchemy.materia_e": "Materia E",
+  "item.artofalchemy.materia_f": "Materia F",
+  "item.artofalchemy.materia_omega": "Materia Omega",
+  "item.artofalchemy.materia_s": "Materia S",
+
+  "item.artofalchemy.philosophers_stone": "Philosopher's Stone",
+
+  "creativetab.artofalchemy.artofalchemyitems": "Art of Alchemy",
+
+  "block.artofalchemy.materia_omega_block": "Omega Block"
+}
